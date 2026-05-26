@@ -1,0 +1,6 @@
+{
+  "name": "Password Strength Analyzer",
+  "description": "A premium cybersecurity-inspired real-time password strength analyzer, strong password generator, breach detector, and reuse prevention dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
